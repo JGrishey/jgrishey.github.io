@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2020-08-05 19:47:10 -0400
+categories: posts
+---
+
+Hello!
+
+I am Jacob Grishey, a 23 year-old programmer based out of Taunton, Massachusetts, USA.
+
+My general language of choice is Ruby, specifically Rails for building web applications.
+
+I have been working at DynamiCare Health for the past 2 years as a Rails programmer. We are a startup who are looking to help addicted folks beat their disease. Before working at DynamiCare, I went to school at Boston University and earned my Bachelor's Degree in Computer Science.
+
+I am starting this blog because I want to improve upon my writing skills and my ability to spread my knowledge to others and hopefully help other people. Even if only one person in the entire Rails community ends up reading this blog, I will consider that a success. Actually, even if no one does, I will end up as a better programmer and writer for it.
+
+I will be trying to post regularly, sharing my thoughts on things like Rails, Ruby, Javascript, and whatever other things that are on my mind. I may not entirely stick to just programming topics.
+
+Anyways, thanks for reading. Hope to see you again soon!
+
+Best,
+
+Jacob
